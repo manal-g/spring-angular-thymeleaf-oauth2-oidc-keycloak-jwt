@@ -25,6 +25,8 @@
 <h2>Autoriser l'acces avec compte Github</h2>
 <img src="captures/img_1.png">
 <h2>Partie Keycloak</h2>
+<h2> Lancement de keycloak</h2>
+<img src="captures/img_kc.png">
 <h2>Création d'un client</h2>
 <img src="captures/img_2.png">
 <img src="captures/img_3.png">
@@ -126,7 +128,6 @@
 <img src="captures/pgadminlogin.jpeg">
 <h2>Interface initiale pgadmin</h2>
 <img src="captures/pgadmin.jpeg">
-<h2> Lancement de keycloak</h2>
-<img src="captures/img_kc.png">
+
 
 
