@@ -53,12 +53,12 @@
 <h2>Génération du jar</h2>
 <img src="captures/jargenere.png">
 
-<h2></h2>
-<img src="captures/">
-<h2></h2>
-<img src="captures/">
-<h2></h2>
-<img src="captures/">
+<h2>Docker Compose</h2>
+<img src="captures/dockercompose.jpeg">
+<h2>Interface PGadmin login</h2>
+<img src="captures/pgadminlogin.jpeg">
+<h2>Interface initiale pgadmin</h2>
+<img src="captures/pgadmin.jpeg">
 <h2></h2>
 <img src="captures/">
 
